@@ -1,0 +1,26 @@
+Lee Electronics Internal Support Procedures:
+
+1. Customer Queries:
+   - All inquiries must be acknowledged within 24 hours.
+   - Escalate unresolved cases to Tier 2 after 48 hours.
+
+2. Product Stocking:
+   - Inventory is updated weekly.
+   - Damaged stock must be reported within 2 days of arrival.
+
+3. Returns and Replacements:
+   - Replacement units must be dispatched within 3 working days after a return is approved.
+   - Internal approval required for bulk returns.
+
+4. Employee Roles:
+   - Sales staff: assist customers in-store and provide product demos.
+   - Support staff: manage warranties, installations, and after-sales service.
+   - Warehouse staff: handle stock management, packaging, and logistics.
+
+5. Training Guidelines:
+   - Staff must complete monthly product knowledge training.
+   - New hires must undergo a 2-week onboarding program.
+
+6. Security & Data Handling:
+   - Customer data is stored securely and accessed only by authorized personnel.
+   - Daily system backups are performed automatically.
