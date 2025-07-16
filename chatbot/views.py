@@ -48,7 +48,7 @@ def ask_gemini(question, context):
     
     try:
         model = genai.GenerativeModel('gemini-1.5-flash')
-
+        
         prompt = f"""Lee Electronics offers a wide range of electronic products and services such as TVs, smartphones, and laptops. You are a helpful assistant for Lee Electronics. Use the provided context to answer the customer's question accurately and concisely.
 
 Context:
@@ -250,4 +250,3 @@ class TestView(APIView):
             "response": f"Echo: {question}",
             "backend_status": "working"
         })
-
