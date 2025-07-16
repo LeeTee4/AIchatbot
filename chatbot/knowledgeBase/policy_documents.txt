@@ -1,30 +1,85 @@
-Lee Electronics Policies:
+LEE ELECTRONICS - COMPREHENSIVE POLICIES & PROCEDURES
 
-1. Warranty Policy:
-   - All products come with a 1-year limited warranty.
-   - The warranty covers manufacturing defects only.
-   - Physical damage or misuse voids the warranty.
+1. WARRANTY POLICY:
+   - Standard Warranty: 1 year limited warranty on all products
+   - Extended Warranty: 2-5 years available for purchase
+   - Premium Products: 2 years manufacturer warranty (TVs 55"+, laptops, smartphones)
+   - Coverage: Manufacturing defects, hardware failures, software issues
+   - Exclusions: Physical damage, water damage, misuse, unauthorized repairs
+   - Claim Process: Online warranty registration, digital receipt required
+   - Repair/Replace: Free repair within warranty period, replacement if unrepairable
 
-2. Return Policy:
-   - Items can be returned within 30 days of purchase.
-   - Products must be in original packaging with all accessories.
-   - Proof of purchase is required.
+2. RETURN & EXCHANGE POLICY:
+   - Return Window: 30 days from purchase date
+   - Exchange Window: 7 days for defective items, 14 days for unopened items
+   - Condition Requirements: Original packaging, all accessories, proof of purchase
+   - Restocking Fee: 15% for opened non-defective items
+   - Free Returns: Defective products, wrong items shipped
+   - Return Shipping: Customer pays return shipping unless item is defective
+   - Refund Processing: 5-7 business days after item inspection
 
-3. Privacy Policy:
-   - We do not share customer information with third parties.
-   - Customer data is encrypted and stored securely.
-   - You may request deletion of your data by contacting support.
+3. DELIVERY & SHIPPING POLICY:
+   - Standard Delivery: 3-5 business days ($10 flat rate)
+   - Express Delivery: 1-2 business days ($25 fee)
+   - Same-Day Delivery: Available in major cities ($35 fee)
+   - Free Shipping: Orders over $500
+   - Installation Service: Professional setup available ($50-150)
+   - Delivery Areas: Nationwide coverage, rural area surcharges may apply
+   - Tracking: Real-time tracking via SMS and email updates
 
-4. Delivery Policy:
-   - Standard delivery: 3-5 business days.
-   - Express delivery: 1-2 business days (extra fee applies).
-   - Delivery delays due to weather or logistics will be communicated proactively.
+4. PAYMENT POLICY:
+   - Accepted Methods: Visa, MasterCard, American Express, PayPal
+   - Local Payments: EcoCash, ZIPIT, OneMoney, bank transfers
+   - Financing Options: 0% APR for 6-12 months (qualified purchases)
+   - Payment Security: SSL encrypted, PCI compliant processing
+   - Pre-authorization: Payment verified before dispatch
+   - Refund Timeline: 7-10 business days for credit cards, 3-5 days for digital wallets
 
-5. Payment Policy:
-   - Accepted methods: Visa, MasterCard, EcoCash, ZIPIT, and bank transfers.
-   - Orders must be paid in full before dispatch.
-   - Refunds are processed within 7 working days after approval.
+5. PRIVACY & DATA PROTECTION:
+   - Data Collection: Only necessary information for order processing
+   - Data Sharing: Never shared with third parties without consent
+   - Data Security: AES-256 encryption, secure servers, regular audits
+   - Customer Rights: Access, modify, or delete personal data anytime
+   - Cookies: Used for website functionality and analytics only
+   - Marketing: Opt-in only for promotional emails and offers
+   - Compliance: GDPR compliant, local data protection laws
 
-6. Exchange Policy:
-   - Exchanges are allowed within 7 days of purchase.
-   - Only defective or unopened items are eligible.
+6. CUSTOMER SERVICE POLICY:
+   - Response Time: 24 hours for emails, immediate for live chat
+   - Support Channels: Phone, email, live chat, WhatsApp, social media
+   - Operating Hours: 8 AM - 8 PM (Monday-Saturday), 10 AM - 6 PM (Sunday)
+   - Multi-language: English, Shona, Ndebele support available
+   - Escalation Process: Tier 1 → Tier 2 → Management within 48 hours
+   - Customer Satisfaction: Follow-up surveys, continuous improvement
+
+7. PRICE MATCHING POLICY:
+   - Eligible Competitors: Authorized retailers with physical/online presence
+   - Price Difference: Must be identical product, in stock, current price
+   - Verification Required: Screenshot/proof of competitor pricing
+   - Exclusions: Clearance sales, membership-only prices, damaged goods
+   - Time Limit: 7 days before or after purchase
+   - Processing: Price match approved within 2 business days
+
+8. CORPORATE & BULK SALES:
+   - Volume Discounts: 5% (10+ units), 10% (50+ units), 15% (100+ units)
+   - Payment Terms: Net 30 for approved corporate accounts
+   - Customization: Logo printing, software pre-installation available
+   - Dedicated Support: Account manager for orders over $10,000
+   - Procurement: Government and NGO purchase orders accepted
+   - Delivery: Scheduled delivery for large orders
+
+9. TRADE-IN PROGRAM:
+   - Eligible Items: Smartphones, laptops, tablets, TVs (working condition)
+   - Evaluation: Free assessment, instant quote
+   - Trade-in Value: Up to 60% of current market value
+   - Condition Grades: Excellent, Good, Fair, Poor
+   - Data Security: Professional data wiping included
+   - Trade-in Credit: Applied to new purchase or cash payment
+
+10. ENVIRONMENTAL POLICY:
+    - E-waste Recycling: Free collection of old electronics
+    - Energy Efficiency: Focus on ENERGY STAR certified products
+    - Packaging: Minimal, recyclable materials
+    - Carbon Footprint: Carbon-neutral shipping options
+    - Sustainability: Partner with eco-friendly manufacturers
+    - Certification: ISO 14001 environmental management compliance
